@@ -1,0 +1,20 @@
+2016-11-15T14:39:12,265 [INFO ] (RunnerTask.java:25) - Parsed text:
+It has survived not only five centuries, but also the leap into 16.0 electronic 2.0 typesetting, remaining 8.0 essentially -3.0 unchanged. It was popularised in the 5.0 with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using 6.0 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. 
+It is a 1200.0 established fact that a reader will be of a page when looking at its layout. 
+Hello. 
+
+2016-11-15T14:39:12,312 [INFO ] (RunnerTask.java:29) - TASK 6:
+has survived not only five centuries, but also the leap into 16.0 electronic 2.0 typesetting, remaining 8.0 essentially -3.0 unchanged. was popularised the 5.0 with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
+a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using 6.0 Ipsum that has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making look like readable English. 
+a 1200.0 established fact that a reader will be of a page when looking at its layout. 
+Hello. 
+
+2016-11-15T14:39:12,318 [INFO ] (RunnerTask.java:33) - TASK 3:
+unchanged. has survived not only five centuries, but also the leap into 16.0 electronic 2.0 typesetting, remaining 8.0 essentially -3.0 It Ipsum. was popularised in the 5.0 with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem It 
+layout. is a long established fact that a reader will be distracted by the readable content of a page when looking at its It English. point of using 6.0 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable The 
+layout. is a 1200.0 established fact that a reader will be of a page when looking at its It 
+Hello. 
+
+2016-11-15T14:39:12,342 [INFO ] (RunnerTask.java:36) - TASK 2:
+Hello. It is a 1200.0 established fact that a reader will be of a page when looking at its layout. It has survived not only five centuries, but also the leap into 16.0 electronic 2.0 typesetting, remaining 8.0 essentially -3.0 unchanged. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using 6.0 Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. It was popularised in the 5.0 with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
